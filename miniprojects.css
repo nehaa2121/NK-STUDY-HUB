@@ -1,0 +1,17 @@
+a{
+    text-decoration: none;
+    display: inline-flex;
+    margin: 10px;
+    text-align: center;
+    padding: 10px;
+    background-color: rgb(92, 33, 147);
+    color: rgb(246, 240, 252);
+    border-radius: 20px;
+}
+a:hover{
+    background-color: blueviolet;
+}
+div{
+    background-color: rgb(191, 153, 226);
+    text-align: center;
+}
